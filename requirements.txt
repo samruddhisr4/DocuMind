@@ -1,0 +1,31 @@
+# Core dependencies (Python 3.15 compatible)
+numpy>=1.24
+pandas>=2.0
+scipy>=1.11
+
+# Deep Learning
+torch>=2.0
+torchvision>=0.15
+
+# Computer Vision & OCR
+opencv-python>=4.8
+Pillow>=10.0
+pytesseract>=0.3.10
+
+# Data processing
+scikit-learn>=1.3
+matplotlib>=3.7
+seaborn>=0.12
+
+# Utilities
+tqdm>=4.65
+pyyaml>=6.0
+python-dotenv>=1.0
+click>=8.1
+
+# Development
+jupyter>=1.0
+ipython>=8.14
+pytest>=7.4
+black>=23.7
+flake8>=6.0
